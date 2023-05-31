@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mIhDJQR1nSAw7D7gSoADqrtNj0KrqHw5m336h0xfLd1UeAbwiBoJb5CgOWzPPETxsDxJ78ANBejzI6olSlWdw==",
+  "dgSpecHash": "50bvpz769fkqR0VMRz9TlP5Nzvl1r5bYuDb2bmtWIHjzDWnQLPf2YvkcuiL/qQLsk14I2iluOeA85qwZbHkYvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DI\\BlazorServerDemo\\BlazorServerDemo.csproj",
+  "projectFilePath": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/BlazorServerDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

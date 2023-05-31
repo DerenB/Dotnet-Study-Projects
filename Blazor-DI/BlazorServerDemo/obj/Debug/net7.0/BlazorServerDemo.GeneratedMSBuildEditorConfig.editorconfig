@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorServerDemo
 build_property.RootNamespace = BlazorServerDemo
-build_property.ProjectDir = C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DI\BlazorServerDemo\
+build_property.ProjectDir = /Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DI\BlazorServerDemo
+build_property.MSBuildProjectDirectory = /Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/App.razor]
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/_Imports.razor]
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-wg5vzyzl1u
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1c8vxda4jo
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-2rmgo9u180
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4jje9prbzp
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dboze/Documents/LocalRepo/DotNet-Tim/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+[/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-DI/BlazorServerDemo/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
