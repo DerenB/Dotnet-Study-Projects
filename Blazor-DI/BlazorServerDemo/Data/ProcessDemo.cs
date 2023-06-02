@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace BlazorServerDemo.Data {
     public class ProcessDemo {
-        private readonly Demo _demo;
-        public ProcessDemo(Demo demo) {
+        private readonly IDemo _demo;
+        public ProcessDemo(IDemo demo) {
             _demo = demo;
         }
 
