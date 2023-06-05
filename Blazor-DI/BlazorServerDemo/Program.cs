@@ -11,6 +11,9 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddDemoInfo();
 
+// Samples
+// builder.Services.AddSingleton(new DemoWithData(5));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
