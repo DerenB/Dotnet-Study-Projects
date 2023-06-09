@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
-builder.Services.Configure<EmailSettingsOptions>(Configuration.GetSection("EmailSettings"));
+
 
 var app = builder.Build();
 
