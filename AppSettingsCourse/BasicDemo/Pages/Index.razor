@@ -13,14 +13,25 @@
     Connection String: @connectionString
 </p>
 
+<p>
+    Email Enabled: @emailSettings.EnableEmailSystem <br />
+    Email Timeout: @emailSettings.EmailTimeoutInSeconds <br />
+    Email Servers: @foreach(string server in emailSettings.EmailServers) {
+        @server @:&nbsp;
+    }
+</p>
+
 @code {
     string mySetting = "";
     string subSetting = "";
     string connectionString = "";
+    EmailSettingsOptions emailSettings = new EmailSettingsOptions();
 
     protected override void OnInitialized() {
         mySetting = _config.GetValue<string>("MySetting");
         subSetting = _config.GetValue<string>("MainSetting:SubSetting");
         connectionString = _config.GetConnectionString("Default");
+
+        emailSettings = _config.GetSection("EmailSettings").Get<EmailSettingsOptions>();
     }
 }
