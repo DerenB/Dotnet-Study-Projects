@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i0z8DUWNwOiUvJsHc6s+wu+iHZseAFLsDNeqkA4B6mw=",
+  "Hash": "0EHab8GA37XDc+KVk/XfKdRwINoZ+IN1lpC74GZKhYQ=",
   "Source": "BasicTemplate",
   "BasePath": "_content/BasicTemplate",
   "Mode": "Default",
@@ -270,6 +270,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Lighthouse Render.png",
+      "SourceId": "BasicTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "BasePath": "_content/BasicTemplate",
+      "RelativePath": "Images/Lighthouse Render.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Lighthouse Render.png"
+    },
+    {
+      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Pumpkin.gif",
+      "SourceId": "BasicTemplate",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "BasePath": "_content/BasicTemplate",
+      "RelativePath": "Images/Pumpkin.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Pumpkin.gif"
     }
   ]
 }

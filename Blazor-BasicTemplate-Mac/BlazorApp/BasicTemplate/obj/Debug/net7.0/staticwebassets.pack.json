@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/BasicTemplate.bundle.scp.css"
     },
     {
+      "Id": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Lighthouse Render.png",
+      "PackagePath": "staticwebassets/Images/Lighthouse Render.png"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Pumpkin.gif",
+      "PackagePath": "staticwebassets/Images/Pumpkin.gif"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
