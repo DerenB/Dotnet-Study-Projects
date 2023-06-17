@@ -1,4 +1,7 @@
 ﻿@page "/"
+@using BasicTemplate.Data
+@inject IDummyDataAccess db
+@inject ILogger<Index> log
 
 <PageTitle>Index</PageTitle>
 
@@ -6,4 +9,14 @@
 
 Welcome to your new app.
 
-Your random number is: 
+Your random number is: @db.GetUserAge()
+
+@code {
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        
+        log.LogInformation("Just opened up the main page");
+    }
+}

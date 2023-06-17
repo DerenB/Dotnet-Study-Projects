@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0EHab8GA37XDc+KVk/XfKdRwINoZ+IN1lpC74GZKhYQ=",
+  "Hash": "iR/NwO4gfd8HkqId629QhBPzdXr7WInhA1X7Ldlozyk=",
   "Source": "BasicTemplate",
   "BasePath": "_content/BasicTemplate",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BasicTemplate/wwwroot",
       "Source": "BasicTemplate",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/bundle/BasicTemplate.styles.css",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/bundle/BasicTemplate.styles.css",
       "SourceId": "BasicTemplate",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "BasicTemplate.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/bundle/BasicTemplate.styles.css"
+      "OriginalItemSpec": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/bundle/BasicTemplate.styles.css"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/projectbundle/BasicTemplate.bundle.scp.css",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/projectbundle/BasicTemplate.bundle.scp.css",
       "SourceId": "BasicTemplate",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "BasicTemplate.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/projectbundle/BasicTemplate.bundle.scp.css"
+      "OriginalItemSpec": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/obj/Debug/net7.0/scopedcss/projectbundle/BasicTemplate.bundle.scp.css"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/open-iconic/README.md",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/site.css",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/css/site.css",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/favicon.png",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/favicon.png",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/favicon.png"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Lighthouse Render.png",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Lighthouse Render.png",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "Images/Lighthouse Render.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/Images/Lighthouse Render.png"
     },
     {
-      "Identity": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Pumpkin.gif",
+      "Identity": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/Images/Pumpkin.gif",
       "SourceId": "BasicTemplate",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/deren/Documents/LocalGitCopy/DotNet-Projects/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
+      "ContentRoot": "/Users/deren/Documents/LocalRepos/TimCoreyTutorials/Dotnet-Study-Projects/Blazor-BasicTemplate-Mac/BlazorApp/BasicTemplate/wwwroot/",
       "BasePath": "_content/BasicTemplate",
       "RelativePath": "Images/Pumpkin.gif",
       "AssetKind": "All",
