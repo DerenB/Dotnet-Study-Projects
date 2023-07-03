@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{8B221B93-545D-4E1F-A7F9-F394B5F0ED99}|https">
-  <MonoDevelop.Ide.ItemProperties.BlazorApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp/appsettings.json">
+    <Files>
+      <File FileName="BlazorApp/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateAuthDemo">
+            <Node name="BlazorApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlazorApp PreferredExecutionTarget="/Applications/Firefox.app" />
   <MultiItemStartupConfigurations />
 </Properties>
