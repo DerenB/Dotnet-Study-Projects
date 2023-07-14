@@ -34,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\SupportLibrary.csproj": {
-                "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\SupportLibrary.csproj"
+              "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\Support Library.csproj": {
+                "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\Support Library.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\SupportLibrary.csproj": {
+    "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\Support Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\SupportLibrary.csproj",
-        "projectName": "SupportLibrary",
-        "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\SupportLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\Support Library.csproj",
+        "projectName": "Support Library",
+        "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\Support Library.csproj",
         "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\obj\\",
+        "outputPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

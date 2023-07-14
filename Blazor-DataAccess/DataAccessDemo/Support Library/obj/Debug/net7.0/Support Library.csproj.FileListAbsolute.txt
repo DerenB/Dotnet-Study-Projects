@@ -1,0 +1,12 @@
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\bin\Debug\net7.0\Support Library.deps.json
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\bin\Debug\net7.0\Support Library.dll
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\bin\Debug\net7.0\Support Library.pdb
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\Support Library.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\Support Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\Support Library.AssemblyInfoInputs.cache
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\Support Library.AssemblyInfo.cs
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\Support Library.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\Support Library.dll
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\refint\Support Library.dll
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\Support Library.pdb
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\Support Library\obj\Debug\net7.0\ref\Support Library.dll

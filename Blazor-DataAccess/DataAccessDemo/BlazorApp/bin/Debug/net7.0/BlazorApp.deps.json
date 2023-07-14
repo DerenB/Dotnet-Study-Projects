@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BlazorApp/1.0.0": {
+        "runtime": {
+          "BlazorApp.dll": {}
+        }
+      },
+      "Support Library/1.0.0": {
+        "runtime": {
+          "Support Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Support Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

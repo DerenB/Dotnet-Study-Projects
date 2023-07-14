@@ -6,7 +6,7 @@
     <Name>SampleDB</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{aee755ac-d96f-41db-a1bc-0367bc12c66e}</ProjectGuid>
+    <ProjectGuid>{7c81b244-77c5-4546-8080-d901ff1eee68}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>

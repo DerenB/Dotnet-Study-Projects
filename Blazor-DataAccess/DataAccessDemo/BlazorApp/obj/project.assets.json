@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "SupportLibrary/1.0.0": {
+      "Support Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/SupportLibrary.dll": {}
+          "bin/placeholder/Support Library.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SupportLibrary.dll": {}
+          "bin/placeholder/Support Library.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "SupportLibrary/1.0.0": {
+    "Support Library/1.0.0": {
       "type": "project",
-      "path": "../SupportLibrary/SupportLibrary.csproj",
-      "msbuildProject": "../SupportLibrary/SupportLibrary.csproj"
+      "path": "../Support Library/Support Library.csproj",
+      "msbuildProject": "../Support Library/Support Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "SupportLibrary >= 1.0.0"
+      "Support Library >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,8 +60,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\SupportLibrary.csproj": {
-              "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\SupportLibrary\\SupportLibrary.csproj"
+            "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\Support Library.csproj": {
+              "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\Blazor-DataAccess\\DataAccessDemo\\Support Library\\Support Library.csproj"
             }
           }
         }
