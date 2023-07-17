@@ -1,3 +1,6 @@
 *.dbmld
 *.dbmdl
 
+Blazor-DataAccess/DataAccessDemo/SampleDB/SampleDB.jfm
+*.dbmdl
+*.jfm
