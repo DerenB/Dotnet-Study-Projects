@@ -1,12 +1,11 @@
 ﻿CREATE PROCEDURE [dbo].[spPeople_Create]
-	@FirstName NVARCHAR(50),
-	@LastName NVARCHAR(50),
+	@FirstName nvarchar(50),
+	@LastName nvarchar(50),
 	@DateOfBirth datetime2(7)
 AS
+begin
+	set nocount on;
 
-BEGIN
-	SET NOCOUNT ON;
-
-	INSERT INTO dbo.People(FirstName, LastName, DateOfBirth)
-	VALUES (@FirstName, @LastName, @DateOfBirth);
-END
+	insert into dbo.People(FirstName, LastName, DateOfBirth)
+	values (@FirstName, @LastName, @DateOfBirth);
+end

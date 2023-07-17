@@ -2,7 +2,6 @@
 @inject IPersonDataService personData
 
 <h3>Create Person</h3>
-
 <div class="row">
     <div class="col-md-4">
         <EditForm Model="@person" OnValidSubmit="HandleValidSubmit">
@@ -25,8 +24,6 @@
         </EditForm>
     </div>
 </div>
-
-
 
 @code {
     private IPersonModel person = new DisplayPersonModel();

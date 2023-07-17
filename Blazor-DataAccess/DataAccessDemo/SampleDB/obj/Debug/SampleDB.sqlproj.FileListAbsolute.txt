@@ -4,3 +4,7 @@ C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataA
 C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\SampleDB\obj\Debug\SampleDB.sqlproj.AssemblyReference.cache
 C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\SampleDB\obj\Debug\SampleDB.dll
 C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\SampleDB\obj\Debug\SampleDB.pdb
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\SampleDB\obj\Debug\Model.xml
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\SampleDB\obj\Debug\refactor.xml
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\SampleDB\obj\Debug\postdeploy.sql
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\Blazor-DataAccess\DataAccessDemo\SampleDB\obj\Debug\predeploy.sql

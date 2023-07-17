@@ -13,6 +13,7 @@ namespace Support_Library.DataAccess
     public class SqlDataAccess : ISqlDataAccess
     {
         private readonly IConfiguration _config;
+
         public SqlDataAccess(IConfiguration config)
         {
             _config = config;
