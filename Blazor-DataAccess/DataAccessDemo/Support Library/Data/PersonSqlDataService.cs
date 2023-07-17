@@ -27,5 +27,12 @@ namespace Support_Library.Data
             };
             await _dataAccess.SaveData("dbo.spPeople_Create", p, "SQLDB");
         }
+
+        public async Task<List<IPersonModel>> ReadPeople()
+        {
+            var people = await _dataAccess.LoadData<PersonModel, dynamic>("dbo.spPeople_Read", new { }, "SQLDB");
+
+            return people.ToList<IPersonModel>();
+        }
     }
 }
