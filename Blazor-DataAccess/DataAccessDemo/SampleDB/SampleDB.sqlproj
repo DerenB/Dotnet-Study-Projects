@@ -64,6 +64,8 @@
     <Build Include="dbo\Tables\People.sql" />
     <Build Include="dbo\Stored Procedures\spPeople_Create.sql" />
     <Build Include="dbo\Stored Procedures\spPeople_Read.sql" />
+    <Build Include="dbo\Stored Procedures\spPeople_Update.sql" />
+    <Build Include="dbo\Stored Procedures\spPeople_ReadOne.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SampleDB.publish.xml" />
