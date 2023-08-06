@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\linq\\LinqUI\\LinqUI.csproj",
+      "projectUniqueName": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\LINQ\\LinqAndLambdaSolution\\LinqUI\\LinqUI.csproj",
       "projectName": "LinqUI",
-      "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\linq\\LinqUI\\LinqUI.csproj",
+      "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\LINQ\\LinqAndLambdaSolution\\LinqUI\\LinqUI.csproj",
       "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\linq\\LinqUI\\obj\\",
+      "outputPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-Tim\\Dotnet-Study-Projects\\LINQ\\LinqAndLambdaSolution\\LinqUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\bin\Debug\net7.0\LinqUI.exe
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\bin\Debug\net7.0\LinqUI.deps.json
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\bin\Debug\net7.0\LinqUI.runtimeconfig.json
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\bin\Debug\net7.0\LinqUI.dll
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\bin\Debug\net7.0\LinqUI.pdb
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.AssemblyInfoInputs.cache
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.AssemblyInfo.cs
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.dll
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\refint\LinqUI.dll
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.pdb
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\LinqUI.genruntimeconfig.cache
+C:\Users\dboze\Documents\LocalRepo\DotNet-Tim\Dotnet-Study-Projects\LINQ\LinqAndLambdaSolution\LinqUI\obj\Debug\net7.0\ref\LinqUI.dll
