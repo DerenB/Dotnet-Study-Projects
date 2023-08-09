@@ -1,0 +1,12 @@
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.deps.json
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.dll
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\bin\Debug\net7.0\DataAccessLibrary.pdb
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.dll
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\refint\DataAccessLibrary.dll
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\DataAccessLibrary.pdb
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Demo\DataAccessLibrary\obj\Debug\net7.0\ref\DataAccessLibrary.dll
