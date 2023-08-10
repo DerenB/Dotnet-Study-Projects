@@ -1,0 +1,10 @@
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\bin\Debug\BlazorDatabase.dacpac
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\bin\Debug\BlazorDatabase.dll
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\bin\Debug\BlazorDatabase.pdb
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\obj\Debug\BlazorDatabase.sqlproj.AssemblyReference.cache
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\obj\Debug\Model.xml
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\obj\Debug\refactor.xml
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\obj\Debug\postdeploy.sql
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\obj\Debug\predeploy.sql
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\obj\Debug\BlazorDatabase.dll
+c:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\Dapper-Blazor\BlazorDatabase\obj\Debug\BlazorDatabase.pdb
