@@ -30,7 +30,7 @@
 - `dotnet sln add .\ClassLibraryDirectory\`
 - `dotnet sln add .\DatabaseDirectory\`
 
-### Add Project Refernce
+### Add Project Reference
 
 - Blazor needs a reference to the Class Library
 - `dotnet add reference ..\ClassLibraryDirectory\ClassLibrary.csproj`
@@ -40,14 +40,3 @@
 - Added to Console/BlazorApp `appsettings.json`
 - `"Default": "Data Source=localhost; Database=BlazorDatabase; Integrated Security=sspi; TrustServerCertificate=True;"`
 
-# Add NuGet packages
-
-### Class Library
-
-- Add: "Dapper"
-- Add: "System.Data.SqlClient"
-
-### Blazor App
-
-- Add: "Microsoft.Extensions.Configuration"
-- Add (maybe): "Microsoft.Extensions.Configuration.Json"

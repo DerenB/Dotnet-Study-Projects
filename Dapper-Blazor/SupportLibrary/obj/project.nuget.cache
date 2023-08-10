@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "a6zkw1N3mEgssTiYG1c4rRUZl9afCi/yEySsIbKfvAZTUKRLMCfGF8OZYfDIANywci6eFbZf9zWDJEEa6xfkUA==",
+  "dgSpecHash": "rPZEOubM6ZUdsFkhsfEmrQU3YE8dUjDm+kSjVfgHeoFqTCa4KQPX9ojkWzgKCE6WQbuW7NiA8eyzNEU9b/16LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\SupportLibrary\\SupportLibrary.csproj",
+  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\SupportLibrary\\SupportLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

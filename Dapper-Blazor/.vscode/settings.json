@@ -1,3 +1,6 @@
 {
-    "dotnet.defaultSolution": "Dapper-Blazor.sln"
+    "dotnet.defaultSolution": "Dapper-Blazor.sln",
+    "cSpell.words": [
+        "Blazor"
+    ]
 }

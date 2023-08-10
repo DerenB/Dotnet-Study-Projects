@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ag/IJCMCQbWk5jmMzYDeOOh4JOItUL9mmsnUsvIILrzeH/AdSEoYgYd2xyNlwJ3y0cgb3DCEhzWzYUGwhcQPjw==",
+  "dgSpecHash": "7O5sj3XQX+g/GdQjSu+XrM1G5vQnBDFANTqDaKXiIydiumFtZSGVo2bs5TCf7pJM+/aBwBdQXPsL4c3bIKhOhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\SqlServerUI\\SqlServerUI.csproj",
+  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\SqlServerUI\\SqlServerUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

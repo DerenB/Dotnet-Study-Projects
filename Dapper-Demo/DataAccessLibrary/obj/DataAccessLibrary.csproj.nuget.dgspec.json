@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
+    "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+    "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "projectName": "DataAccessLibrary",
-        "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectPath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\obj\\",
+        "outputPath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

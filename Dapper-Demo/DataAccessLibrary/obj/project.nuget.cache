@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MoLyWsBPBV7BNaS/dQkLXk7rSj56MyHJQcgHt7nLJGipmY3AFuPhuFqGonEaLnFC/LKB3hs0KSdQiDfji2+3sA==",
+  "dgSpecHash": "p/RGD6BF2ScsSEJXrnAwHKNkKj4rHQfPg/I0H3VXKzE0b7F/PgtBeU7TKN74zj8d1DN2RV40YHLJvS1VavWbjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj",
+  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Demo\\DataAccessLibrary\\DataAccessLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
