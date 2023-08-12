@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jayoMUQ4soic/GEv1co2bFF5bJsN6eErlDVPNZvljKykWn+le0On/4kk7XJsrjBYx9+S0I+l467U6JVW0HxK/A==",
+  "dgSpecHash": "3wqybNzznz5YClqtZ10QsPUPqztNTK+lgmzvKjDnLCiYp8G4/qaq9ro3iLAwbx1X5bgV6f31pOnTuDlJ/hAmow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

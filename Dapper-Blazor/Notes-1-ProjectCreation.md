@@ -11,7 +11,8 @@
   - Create all directories in Database Projects Tab
 - Add *dbo* directory
 - Add *Tables* directory to *dbo* directory
-- Create Tables in *Tables*
+- Add *Stored Procedures* directory to *dbo* directory
+- Create every Table in *Tables* needed for the project
 - Publish Database
 
 ### Publish Database Steps
