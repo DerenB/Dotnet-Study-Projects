@@ -1,0 +1,46 @@
+﻿@page "/readtransactions"
+@inject IDataService transactionData
+
+<h3>Read All Transactions</h3>
+
+@if (tranactions == null)
+{
+    <h4>Loading ...</h4>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Location</th>
+                <th>State</th>
+                <th>TransactionDateTime</th>
+                <th>TransactionAmount</th>
+                <th>ActiveLocation</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in tranactions)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Location</td>
+                    <td>@p.State</td>
+                    <td>@p.TransactionDateTime</td>
+                    <td>@p.TransactionAmount</td>
+                    <td>@p.ActiveLocation</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<ITransactionModel> tranactions;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        tranactions = await transactionData.ReadAllTransactions();
+    }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jg1UluBkKmGq2ABr3yor8ScNJ2FjICrpgESCJrff+l4MnK0WQFcmWhnDrTyyPRpXChRqB8tTlvNdOgq1hVHAtg==",
+  "dgSpecHash": "dDzTLNzb5KDpmBtz4wQTAVw0DlaBcUm7j6fQT7+hbV+D1gxqQmmmQm5qY9G46J9H6gEGCUJ7F0oMIHyY6CwyaA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj",
+  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"

@@ -63,6 +63,223 @@
 			</Relationship>
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="3" />
 		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[spTransactions_BetweenDates]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+BEGIN
+  SELECT
+    [Id], 
+    [Location], 
+    [State], 
+    [TransactionDateTime], 
+    [TransactionAmount], 
+    [ActiveLocation]
+  FROM 
+    dbo.Transactions
+  WHERE
+    TransactionDateTime >= @startDate
+    AND TransactionDateTime < @endDate;
+END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Transactions]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[Id]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[Location]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[State]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[TransactionDateTime]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[TransactionAmount]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[ActiveLocation]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[spTransactions_BetweenDates].[@startDate]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[spTransactions_BetweenDates].[@endDate]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[spTransactions_BetweenDates].[@startDate]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[date]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[spTransactions_BetweenDates].[@endDate]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[date]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="341" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[spTransactions_BetweenDates]&#xA;  @startDate DATE,&#xA;  @endDate DATE&#xA;AS" />
+			</Annotation>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[spTransactions_ReadAll]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+BEGIN
+  SELECT 
+    [Id], 
+    [Location], 
+    [State], 
+    [TransactionDateTime], 
+    [TransactionAmount], 
+    [ActiveLocation]
+  FROM 
+    dbo.Transactions;
+END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Transactions]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[Id]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[Location]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[State]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[TransactionDateTime]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[TransactionAmount]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[ActiveLocation]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="218" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[spTransactions_ReadAll]&#xA;&#xA;AS" />
+			</Annotation>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[spTransactions_ReadByState]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+BEGIN
+  SELECT
+    [Id], 
+    [Location], 
+    [State], 
+    [TransactionDateTime], 
+    [TransactionAmount], 
+    [ActiveLocation]
+  FROM 
+    dbo.Transactions
+  WHERE
+    [State] = @state;
+END]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Transactions]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[Id]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[Location]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[State]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[TransactionDateTime]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[TransactionAmount]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Transactions].[ActiveLocation]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[spTransactions_ReadByState].[@state]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[spTransactions_ReadByState].[@state]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Property Name="Length" Value="2" />
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[varchar]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="269" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[spTransactions_ReadByState]&#xA;  @state VARCHAR(2)&#xA;AS" />
+			</Annotation>
+		</Element>
 		<Element Type="SqlTable" Name="[dbo].[Transactions]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
 			<Relationship Name="Columns">

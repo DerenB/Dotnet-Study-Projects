@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 
 namespace SupportLibrary.DataAccess
 {
-    public class SqlDataAccess
+    public class SqlDataAccess : ISqlDataAccess
     {
         private readonly IConfiguration _config;
 
@@ -54,7 +54,7 @@ namespace SupportLibrary.DataAccess
             }
         }
 
-        public void SaveDataAlternative<T>(String sqlStatement, T parameters, string connectionString)
+        public void SaveDataAlternative<T>(string sqlStatement, T parameters, string connectionString)
         {
             using(IDbConnection connection = new SqlConnection(connectionString))
             {

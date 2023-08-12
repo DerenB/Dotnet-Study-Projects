@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rPZEOubM6ZUdsFkhsfEmrQU3YE8dUjDm+kSjVfgHeoFqTCa4KQPX9ojkWzgKCE6WQbuW7NiA8eyzNEU9b/16LQ==",
+  "dgSpecHash": "sSoHt4mJN8tg2Dac2ZmyKOGoMi6A3dIrQvsvsPbjbrsgXPTJCqQ7mUH1MmR8+CDqKPKwduwu4MLRKCs2JZu01Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\SupportLibrary\\SupportLibrary.csproj",
+  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\SupportLibrary\\SupportLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

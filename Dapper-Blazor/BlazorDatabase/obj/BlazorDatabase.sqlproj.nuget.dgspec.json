@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj": {}
+    "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj": {}
   },
   "projects": {
-    "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj": {
+    "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj",
+        "projectUniqueName": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj",
         "projectName": "BlazorDatabase",
-        "projectPath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj",
+        "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\BlazorDatabase.sqlproj",
         "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\obj\\",
+        "outputPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\Dapper-Blazor\\BlazorDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

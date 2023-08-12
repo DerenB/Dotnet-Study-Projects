@@ -23,7 +23,7 @@
    2. Defaults to "MainLayout"
    3. Change all instances to "Layout"
 5. Add Bootstrap 5 references to `_Host.cshtml`
-   1. **To-Do** : Bootstrap lines
+   1. <mark>**TODO**</mark> : Bootstrap lines
 
 # Models
 

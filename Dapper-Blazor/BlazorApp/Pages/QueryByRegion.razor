@@ -1,0 +1,59 @@
+﻿@page "/region"
+@inject IDataService transactionData
+
+<h3>Query Transactions By Region</h3>
+
+<EditForm Model="@QueryItem" OnValidSubmit="HandleValidSubmit">
+    <label>Region:</label>
+    <InputText @bind-Value="QueryItem.State" />
+    <button type="submit">Search</button>
+</EditForm>
+
+@if (tranactions == null)
+{
+    <h4>Loading ...</h4>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Id</th>
+                <th>Location</th>
+                <th>State</th>
+                <th>TransactionDateTime</th>
+                <th>TransactionAmount</th>
+                <th>ActiveLocation</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in tranactions)
+            {
+                <tr>
+                    <td>@num</td>
+                    <td>@p.Id</td>
+                    <td>@p.Location</td>
+                    <td>@p.State</td>
+                    <td>@p.TransactionDateTime</td>
+                    <td>@p.TransactionAmount</td>
+                    <td>@p.ActiveLocation</td>
+                </tr>
+                num+=1;
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    TransactionModel QueryItem = new TransactionModel();
+
+    private int num = 1;
+
+    private List<ITransactionModel> tranactions;
+
+    private async Task HandleValidSubmit()
+    {
+        tranactions = await transactionData.ReadTransactionsByRegion(QueryItem.State);
+    }
+}
