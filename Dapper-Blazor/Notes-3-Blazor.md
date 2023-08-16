@@ -23,8 +23,10 @@
    2. Defaults to "MainLayout"
    3. Change all instances to "Layout"
 5. Add Bootstrap 5 references to `_Host.cshtml`
-   1. <mark>**TODO**</mark> : Bootstrap lines
-
+   1. `<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">`
+   2. `<link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">`
+   3. `<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>`
+    
 # Models
 
 - Create a Model for every model that was created in the support library
