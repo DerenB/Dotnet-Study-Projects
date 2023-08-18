@@ -1,0 +1,17 @@
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\bin\Debug\net7.0\CsvDemo.exe
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\bin\Debug\net7.0\CsvDemo.deps.json
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\bin\Debug\net7.0\CsvDemo.runtimeconfig.json
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\bin\Debug\net7.0\CsvDemo.dll
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\bin\Debug\net7.0\CsvDemo.pdb
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.AssemblyInfoInputs.cache
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.AssemblyInfo.cs
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.csproj.CopyComplete
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.dll
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\refint\CsvDemo.dll
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.pdb
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\CsvDemo.genruntimeconfig.cache
+C:\Users\dboze\Documents\LocalRepo\Dotnet\Dotnet-Study-Projects\CSVHelper\CsvDemo\obj\Debug\net7.0\ref\CsvDemo.dll

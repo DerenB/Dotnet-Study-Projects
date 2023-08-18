@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj": {}
+    "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj": {
+    "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj",
+        "projectUniqueName": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj",
         "projectName": "CsvDemo",
-        "projectPath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj",
+        "projectPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\CsvDemo.csproj",
         "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\obj\\",
+        "outputPath": "C:\\Users\\dboze\\Documents\\LocalRepo\\Dotnet\\Dotnet-Study-Projects\\CSVHelper\\CsvDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
