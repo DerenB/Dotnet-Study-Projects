@@ -4,6 +4,7 @@
 
 - View > Command Palette > NuGet: Open NuGet Gallery
 - Packages properly added are listed in the `.csproj` file
+- Add: "CSVHelper"
 - Add: "Microsoft.Extensions.Configuration"
 - Add (maybe): "Microsoft.Extensions.Configuration.Json"
 
