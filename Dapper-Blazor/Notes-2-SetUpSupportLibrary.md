@@ -10,7 +10,7 @@
 
 ### Directories
 
-- Add "Data" Directory
+- Add "DataService" Directory
   - This directory is for data services
 - Add "DataAccess" Directory
   - This directory talks to the database
