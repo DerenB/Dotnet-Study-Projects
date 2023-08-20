@@ -5,6 +5,22 @@
 - Class Library: `dotnet new classlib -f net7.0`
   - Delete "Class1.cs"
 
+# Add Projects to Solution
+
+- `dotnet sln add .\BlazorDirectory\`
+- `dotnet sln add .\ClassLibraryDirectory\`
+- `dotnet sln add .\DatabaseDirectory\`
+
+### Add Project Reference
+
+- Blazor needs a reference to the Class Library
+- `dotnet add reference ..\ClassLibraryDirectory\ClassLibrary.csproj`
+
+# Add Connection String
+
+- Added to Console/BlazorApp `appsettings.json`
+- `"Default": "Data Source=localhost; Database=BlazorDatabase; Integrated Security=sspi; TrustServerCertificate=True;"`
+
 # Create Database
 
 - Create Database in Database Projects Tab 
@@ -24,20 +40,3 @@
 - localhost [localhost: \<default> ... ]
 - Click name of database creating
 - Publish
-
-# Add Projects to Solution
-
-- `dotnet sln add .\BlazorDirectory\`
-- `dotnet sln add .\ClassLibraryDirectory\`
-- `dotnet sln add .\DatabaseDirectory\`
-
-### Add Project Reference
-
-- Blazor needs a reference to the Class Library
-- `dotnet add reference ..\ClassLibraryDirectory\ClassLibrary.csproj`
-
-# Add Connection String
-
-- Added to Console/BlazorApp `appsettings.json`
-- `"Default": "Data Source=localhost; Database=BlazorDatabase; Integrated Security=sspi; TrustServerCertificate=True;"`
-
